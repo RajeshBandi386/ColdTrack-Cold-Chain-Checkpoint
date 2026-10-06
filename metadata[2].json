@@ -1,0 +1,8 @@
+{
+  "name": "ColdTrack: Cold-Chain Checkpoint",
+  "description": "Driver app for temperature-sensitive medicine deliveries on routes with unreliable connectivity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
